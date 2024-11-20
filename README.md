@@ -18,4 +18,4 @@ To read Excel files in Databricks, you need to use the `spark-excel` library, wh
    - Click **Install**.
 
 ---
-Once the library is installed, you can use it in your notebooks to read Excel files. Here’s the code to do that:
+Once the library is installed, you can use the notebook attached to read Excel files
